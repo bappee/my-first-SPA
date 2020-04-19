@@ -1,0 +1,78 @@
+.body-container{
+    display: flex;
+}
+
+.person-container{
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid gray;
+}
+
+
+
+
+
+.design{
+    border: 1px solid yellow;
+    padding: 20px;
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    background-color: gray;
+
+}
+
+.add-container{
+        display: flex;
+    
+        
+}
+.side-design{
+   
+
+}
+.member-side{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/**.style-body{
+    border: 1px solid red;
+    padding: 20px;
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.style-body img {
+    width: 300px;
+    height: 180px;
+
+}
+.name-design{
+    color: red;
+}
+.body-container{ 
+    display: flex;
+    
+
+}
+.id-name{
+    width: 70%;
+    margin-left: 20px;
+    border-right: 1px solid red;
+} */

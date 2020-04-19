@@ -1,0 +1,31 @@
+.person img{
+    height: 200px;
+    width: 200px;
+}
+.person{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+
+}
+
+.main-button{
+    background-color: indianred;
+    width: 150px;
+    padding: 7px;
+    border-radius: 20px;
+    color: ivory;
+}
+
+.main-button:hover{
+    color: lightgreen;
+    font-size: medium;
+}
+.photo{
+    margin-right: 10px;
+}
+.info{
+    margin-left: 20px;
+}
